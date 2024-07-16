@@ -1,0 +1,11 @@
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\bin\Debug\switchCaseOrnek.exe.config
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\bin\Debug\switchCaseOrnek.exe
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\bin\Debug\switchCaseOrnek.pdb
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.csproj.AssemblyReference.cache
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.Form1.resources
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.Properties.Resources.resources
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.csproj.GenerateResource.cache
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.csproj.CoreCompileInputs.cache
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.exe
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.pdb
+C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.bilgiYarismasi.resources
