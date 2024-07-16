@@ -9,3 +9,14 @@ C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.csp
 C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.exe
 C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.pdb
 C:\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.bilgiYarismasi.resources
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\bin\Debug\switchCaseOrnek.exe.config
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\bin\Debug\switchCaseOrnek.exe
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\bin\Debug\switchCaseOrnek.pdb
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.csproj.AssemblyReference.cache
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.bilgiYarismasi.resources
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.Form1.resources
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.Properties.Resources.resources
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.csproj.GenerateResource.cache
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.csproj.CoreCompileInputs.cache
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.exe
+C:\c#_dosyalarım\switchCaseOrnek\switchCaseOrnek\switchCaseOrnek\obj\Debug\switchCaseOrnek.pdb

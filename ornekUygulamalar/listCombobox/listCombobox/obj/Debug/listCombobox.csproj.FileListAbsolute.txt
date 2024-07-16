@@ -10,3 +10,15 @@ C:\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.exe
 C:\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.pdb
 C:\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.digerElementler.resources
 C:\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.digerElementler_2.resources
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\bin\Debug\listCombobox.exe.config
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\bin\Debug\listCombobox.exe
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\bin\Debug\listCombobox.pdb
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.csproj.AssemblyReference.cache
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.digerElementler.resources
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.digerElementler_2.resources
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.Form1.resources
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.Properties.Resources.resources
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.csproj.GenerateResource.cache
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.csproj.CoreCompileInputs.cache
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.exe
+C:\c#_dosyalarım\ornekUygulamalar\listCombobox\listCombobox\obj\Debug\listCombobox.pdb
