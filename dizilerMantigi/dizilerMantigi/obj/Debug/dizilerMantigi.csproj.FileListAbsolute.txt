@@ -1,0 +1,10 @@
+C:\c#_dosyalarım\dizilerMantigi\dizilerMantigi\bin\Debug\dizilerMantigi.exe.config
+C:\c#_dosyalarım\dizilerMantigi\dizilerMantigi\bin\Debug\dizilerMantigi.exe
+C:\c#_dosyalarım\dizilerMantigi\dizilerMantigi\bin\Debug\dizilerMantigi.pdb
+C:\c#_dosyalarım\dizilerMantigi\dizilerMantigi\obj\Debug\dizilerMantigi.csproj.AssemblyReference.cache
+C:\c#_dosyalarım\dizilerMantigi\dizilerMantigi\obj\Debug\dizilerMantigi.Form1.resources
+C:\c#_dosyalarım\dizilerMantigi\dizilerMantigi\obj\Debug\dizilerMantigi.Properties.Resources.resources
+C:\c#_dosyalarım\dizilerMantigi\dizilerMantigi\obj\Debug\dizilerMantigi.csproj.GenerateResource.cache
+C:\c#_dosyalarım\dizilerMantigi\dizilerMantigi\obj\Debug\dizilerMantigi.csproj.CoreCompileInputs.cache
+C:\c#_dosyalarım\dizilerMantigi\dizilerMantigi\obj\Debug\dizilerMantigi.exe
+C:\c#_dosyalarım\dizilerMantigi\dizilerMantigi\obj\Debug\dizilerMantigi.pdb

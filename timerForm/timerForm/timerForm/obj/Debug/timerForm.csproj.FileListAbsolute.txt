@@ -1,0 +1,11 @@
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\bin\Debug\timerForm.exe.config
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\bin\Debug\timerForm.exe
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\bin\Debug\timerForm.pdb
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\obj\Debug\timerForm.csproj.AssemblyReference.cache
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\obj\Debug\timerForm.Form1.resources
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\obj\Debug\timerForm.Properties.Resources.resources
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\obj\Debug\timerForm.csproj.GenerateResource.cache
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\obj\Debug\timerForm.csproj.CoreCompileInputs.cache
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\obj\Debug\timerForm.exe
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\obj\Debug\timerForm.pdb
+C:\c#_dosyalarım\timerForm\timerForm\timerForm\obj\Debug\timerForm.djitalSaat.resources
