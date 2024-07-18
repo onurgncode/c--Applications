@@ -1,0 +1,12 @@
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\bin\Debug\EkstraAraclar1.exe.config
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\bin\Debug\EkstraAraclar1.exe
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\bin\Debug\EkstraAraclar1.pdb
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\obj\Debug\EkstraAraclar1.csproj.AssemblyReference.cache
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\obj\Debug\EkstraAraclar1.Form1.resources
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\obj\Debug\EkstraAraclar1.Properties.Resources.resources
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\obj\Debug\EkstraAraclar1.csproj.GenerateResource.cache
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\obj\Debug\EkstraAraclar1.csproj.CoreCompileInputs.cache
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\obj\Debug\EkstraAraclar1.exe
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\obj\Debug\EkstraAraclar1.pdb
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\obj\Debug\EkstraAraclar1.chartOzellikleri.resources
+C:\c#_dosyalarım\EkstraAraclar1\EkstraAraclar1\obj\Debug\EkstraAraclar1.exe.licenses

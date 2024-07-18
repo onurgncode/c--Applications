@@ -1,0 +1,11 @@
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\bin\Debug\ekstraYapılar.exe.config
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\bin\Debug\ekstraYapılar.exe
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\bin\Debug\ekstraYapılar.pdb
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.csproj.AssemblyReference.cache
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.Form1.resources
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.ikinciSayfa.resources
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.Properties.Resources.resources
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.csproj.GenerateResource.cache
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.csproj.CoreCompileInputs.cache
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.exe
+C:\c#_dosyalarım\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.pdb

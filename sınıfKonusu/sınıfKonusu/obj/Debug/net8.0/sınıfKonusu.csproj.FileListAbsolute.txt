@@ -1,0 +1,15 @@
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\bin\Debug\net8.0\sınıfKonusu.exe
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\bin\Debug\net8.0\sınıfKonusu.deps.json
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\bin\Debug\net8.0\sınıfKonusu.runtimeconfig.json
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\bin\Debug\net8.0\sınıfKonusu.dll
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\bin\Debug\net8.0\sınıfKonusu.pdb
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\obj\Debug\net8.0\sınıfKonusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\obj\Debug\net8.0\sınıfKonusu.AssemblyInfoInputs.cache
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\obj\Debug\net8.0\sınıfKonusu.AssemblyInfo.cs
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\obj\Debug\net8.0\sınıfKonusu.csproj.CoreCompileInputs.cache
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\obj\Debug\net8.0\sınıfKonusu.sourcelink.json
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\obj\Debug\net8.0\sınıfKonusu.dll
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\obj\Debug\net8.0\refint\sınıfKonusu.dll
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\obj\Debug\net8.0\sınıfKonusu.pdb
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\obj\Debug\net8.0\sınıfKonusu.genruntimeconfig.cache
+C:\c#_dosyalarım\sınıfKonusu\sınıfKonusu\obj\Debug\net8.0\ref\sınıfKonusu.dll

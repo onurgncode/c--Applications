@@ -1,0 +1,17 @@
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\bin\Debug\NkatmanliMimari.exe.config
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\bin\Debug\NkatmanliMimari.exe
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\bin\Debug\NkatmanliMimari.pdb
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\bin\Debug\DataAccessLayer.dll
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\bin\Debug\EntityLayer.dll
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\bin\Debug\LogicLayer.dll
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\bin\Debug\DataAccessLayer.pdb
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\bin\Debug\EntityLayer.pdb
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\bin\Debug\LogicLayer.pdb
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\obj\Debug\NkatmanliMimari.csproj.AssemblyReference.cache
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\obj\Debug\NkatmanliMimari.Form1.resources
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\obj\Debug\NkatmanliMimari.Properties.Resources.resources
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\obj\Debug\NkatmanliMimari.csproj.GenerateResource.cache
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\obj\Debug\NkatmanliMimari.csproj.CoreCompileInputs.cache
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\obj\Debug\Nkatmanl.3B07259E.Up2Date
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\obj\Debug\NkatmanliMimari.exe
+C:\c#_dosyalarım\NkatmanliMimari\NkatmanliMimari\obj\Debug\NkatmanliMimari.pdb

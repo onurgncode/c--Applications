@@ -1,0 +1,9 @@
+C:\c#_dosyalarım\NkatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\c#_dosyalarım\NkatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\c#_dosyalarım\NkatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\c#_dosyalarım\NkatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\c#_dosyalarım\NkatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\c#_dosyalarım\NkatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\c#_dosyalarım\NkatmanliMimari\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\c#_dosyalarım\NkatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\c#_dosyalarım\NkatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
