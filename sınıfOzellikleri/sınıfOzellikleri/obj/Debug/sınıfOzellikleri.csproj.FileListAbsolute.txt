@@ -1,7 +1,0 @@
-C:\c#_dosyalarım\sınıfOzellikleri\sınıfOzellikleri\obj\Debug\sınıfOzellikleri.csproj.AssemblyReference.cache
-C:\c#_dosyalarım\sınıfOzellikleri\sınıfOzellikleri\obj\Debug\sınıfOzellikleri.csproj.CoreCompileInputs.cache
-C:\c#_dosyalarım\sınıfOzellikleri\sınıfOzellikleri\bin\Debug\sınıfOzellikleri.exe.config
-C:\c#_dosyalarım\sınıfOzellikleri\sınıfOzellikleri\bin\Debug\sınıfOzellikleri.exe
-C:\c#_dosyalarım\sınıfOzellikleri\sınıfOzellikleri\bin\Debug\sınıfOzellikleri.pdb
-C:\c#_dosyalarım\sınıfOzellikleri\sınıfOzellikleri\obj\Debug\sınıfOzellikleri.exe
-C:\c#_dosyalarım\sınıfOzellikleri\sınıfOzellikleri\obj\Debug\sınıfOzellikleri.pdb

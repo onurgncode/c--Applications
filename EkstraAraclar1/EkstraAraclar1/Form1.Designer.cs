@@ -31,8 +31,11 @@
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.kategorilerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.romantikToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.iLoveYouToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.korkuToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.korkuSeansıToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.bİlimKurguToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.yıldızlarArasıToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.renklerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.griToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.greenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -41,9 +44,6 @@
             this.hakkımdaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.çıkılToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
-            this.iLoveYouToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.korkuSeansıToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.yıldızlarArasıToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -74,24 +74,43 @@
             this.romantikToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.iLoveYouToolStripMenuItem});
             this.romantikToolStripMenuItem.Name = "romantikToolStripMenuItem";
-            this.romantikToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.romantikToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.romantikToolStripMenuItem.Text = "Romantik";
+            // 
+            // iLoveYouToolStripMenuItem
+            // 
+            this.iLoveYouToolStripMenuItem.Name = "iLoveYouToolStripMenuItem";
+            this.iLoveYouToolStripMenuItem.Size = new System.Drawing.Size(125, 22);
+            this.iLoveYouToolStripMenuItem.Text = "i love you";
             // 
             // korkuToolStripMenuItem
             // 
             this.korkuToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.korkuSeansıToolStripMenuItem});
             this.korkuToolStripMenuItem.Name = "korkuToolStripMenuItem";
-            this.korkuToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.korkuToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.korkuToolStripMenuItem.Text = "Korku";
+            // 
+            // korkuSeansıToolStripMenuItem
+            // 
+            this.korkuSeansıToolStripMenuItem.Name = "korkuSeansıToolStripMenuItem";
+            this.korkuSeansıToolStripMenuItem.Size = new System.Drawing.Size(141, 22);
+            this.korkuSeansıToolStripMenuItem.Text = "Korku Seansı";
             // 
             // bİlimKurguToolStripMenuItem
             // 
             this.bİlimKurguToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.yıldızlarArasıToolStripMenuItem});
             this.bİlimKurguToolStripMenuItem.Name = "bİlimKurguToolStripMenuItem";
-            this.bİlimKurguToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.bİlimKurguToolStripMenuItem.Size = new System.Drawing.Size(136, 22);
             this.bİlimKurguToolStripMenuItem.Text = "Bİlim Kurgu";
+            // 
+            // yıldızlarArasıToolStripMenuItem
+            // 
+            this.yıldızlarArasıToolStripMenuItem.Name = "yıldızlarArasıToolStripMenuItem";
+            this.yıldızlarArasıToolStripMenuItem.Size = new System.Drawing.Size(144, 22);
+            this.yıldızlarArasıToolStripMenuItem.Text = "Yıldızlar Arası";
+            this.yıldızlarArasıToolStripMenuItem.Click += new System.EventHandler(this.yıldızlarArasıToolStripMenuItem_Click);
             // 
             // renklerToolStripMenuItem
             // 
@@ -106,21 +125,21 @@
             // griToolStripMenuItem
             // 
             this.griToolStripMenuItem.Name = "griToolStripMenuItem";
-            this.griToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.griToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
             this.griToolStripMenuItem.Text = "Gri";
             this.griToolStripMenuItem.Click += new System.EventHandler(this.griToolStripMenuItem_Click);
             // 
             // greenToolStripMenuItem
             // 
             this.greenToolStripMenuItem.Name = "greenToolStripMenuItem";
-            this.greenToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.greenToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
             this.greenToolStripMenuItem.Text = "Green";
             this.greenToolStripMenuItem.Click += new System.EventHandler(this.greenToolStripMenuItem_Click);
             // 
             // blackToolStripMenuItem
             // 
             this.blackToolStripMenuItem.Name = "blackToolStripMenuItem";
-            this.blackToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.blackToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
             this.blackToolStripMenuItem.Text = "black";
             this.blackToolStripMenuItem.Click += new System.EventHandler(this.blackToolStripMenuItem_Click);
             // 
@@ -136,13 +155,13 @@
             // hakkımdaToolStripMenuItem
             // 
             this.hakkımdaToolStripMenuItem.Name = "hakkımdaToolStripMenuItem";
-            this.hakkımdaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.hakkımdaToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
             this.hakkımdaToolStripMenuItem.Text = "Hakkımda";
             // 
             // çıkılToolStripMenuItem
             // 
             this.çıkılToolStripMenuItem.Name = "çıkılToolStripMenuItem";
-            this.çıkılToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.çıkılToolStripMenuItem.Size = new System.Drawing.Size(128, 22);
             this.çıkılToolStripMenuItem.Text = "Çıkış";
             this.çıkılToolStripMenuItem.Click += new System.EventHandler(this.çıkılToolStripMenuItem_Click);
             // 
@@ -151,27 +170,8 @@
             this.webBrowser1.Location = new System.Drawing.Point(12, 27);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
-            this.webBrowser1.Size = new System.Drawing.Size(711, 233);
+            this.webBrowser1.Size = new System.Drawing.Size(722, 233);
             this.webBrowser1.TabIndex = 1;
-            // 
-            // iLoveYouToolStripMenuItem
-            // 
-            this.iLoveYouToolStripMenuItem.Name = "iLoveYouToolStripMenuItem";
-            this.iLoveYouToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.iLoveYouToolStripMenuItem.Text = "i love you";
-            // 
-            // korkuSeansıToolStripMenuItem
-            // 
-            this.korkuSeansıToolStripMenuItem.Name = "korkuSeansıToolStripMenuItem";
-            this.korkuSeansıToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.korkuSeansıToolStripMenuItem.Text = "Korku Seansı";
-            // 
-            // yıldızlarArasıToolStripMenuItem
-            // 
-            this.yıldızlarArasıToolStripMenuItem.Name = "yıldızlarArasıToolStripMenuItem";
-            this.yıldızlarArasıToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.yıldızlarArasıToolStripMenuItem.Text = "Yıldızlar Arası";
-            this.yıldızlarArasıToolStripMenuItem.Click += new System.EventHandler(this.yıldızlarArasıToolStripMenuItem_Click);
             // 
             // Form1
             // 

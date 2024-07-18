@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\c#_dosyalar\u0131m\\dizilerMantigi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{663EAD2D-DC7B-453E-B943-3D81655F226F}|dizilerMantigi\\dizilerMantigi.csproj|c:\\c#_dosyalar\u0131m\\dizilermantigi\\dizilermantigi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663EAD2D-DC7B-453E-B943-3D81655F226F}|dizilerMantigi\\dizilerMantigi.csproj|solutionrelative:dizilermantigi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663EAD2D-DC7B-453E-B943-3D81655F226F}|dizilerMantigi\\dizilerMantigi.csproj|c:\\c#_dosyalar\u0131m\\dizilermantigi\\dizilermantigi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{663EAD2D-DC7B-453E-B943-3D81655F226F}|dizilerMantigi\\dizilerMantigi.csproj|solutionrelative:dizilermantigi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\dizilerMantigi\\dizilerMantigi\\Form1.cs",
+              "RelativeDocumentMoniker": "dizilerMantigi\\Form1.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\dizilerMantigi\\dizilerMantigi\\Form1.cs",
+              "RelativeToolTip": "dizilerMantigi\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAArwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:47:56.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\dizilerMantigi\\dizilerMantigi\\Form1.cs",
+              "RelativeDocumentMoniker": "dizilerMantigi\\Form1.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\dizilerMantigi\\dizilerMantigi\\Form1.cs [Design]",
+              "RelativeToolTip": "dizilerMantigi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:47:55.017Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

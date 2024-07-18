@@ -1,12 +1,86 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\c#_dosyalar\u0131m\\EkstraAraclar1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBE5DE5-23F9-4878-98A5-136982FCA506}|EkstraAraclar1\\EkstraAraclar1.csproj|c:\\c#_dosyalar\u0131m\\ekstraaraclar1\\ekstraaraclar1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBE5DE5-23F9-4878-98A5-136982FCA506}|EkstraAraclar1\\EkstraAraclar1.csproj|solutionrelative:ekstraaraclar1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBE5DE5-23F9-4878-98A5-136982FCA506}|EkstraAraclar1\\EkstraAraclar1.csproj|c:\\c#_dosyalar\u0131m\\ekstraaraclar1\\ekstraaraclar1\\chartozellikleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDBE5DE5-23F9-4878-98A5-136982FCA506}|EkstraAraclar1\\EkstraAraclar1.csproj|solutionrelative:ekstraaraclar1\\chartozellikleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBE5DE5-23F9-4878-98A5-136982FCA506}|EkstraAraclar1\\EkstraAraclar1.csproj|c:\\c#_dosyalar\u0131m\\ekstraaraclar1\\ekstraaraclar1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDBE5DE5-23F9-4878-98A5-136982FCA506}|EkstraAraclar1\\EkstraAraclar1.csproj|solutionrelative:ekstraaraclar1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBE5DE5-23F9-4878-98A5-136982FCA506}|EkstraAraclar1\\EkstraAraclar1.csproj|c:\\c#_dosyalar\u0131m\\ekstraaraclar1\\ekstraaraclar1\\chartozellikleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBE5DE5-23F9-4878-98A5-136982FCA506}|EkstraAraclar1\\EkstraAraclar1.csproj|solutionrelative:ekstraaraclar1\\chartozellikleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\EkstraAraclar1\\EkstraAraclar1\\Form1.cs",
+              "RelativeDocumentMoniker": "EkstraAraclar1\\Form1.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\EkstraAraclar1\\EkstraAraclar1\\Form1.cs [Design]",
+              "RelativeToolTip": "EkstraAraclar1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:50:42.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\EkstraAraclar1\\EkstraAraclar1\\Program.cs",
+              "RelativeDocumentMoniker": "EkstraAraclar1\\Program.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\EkstraAraclar1\\EkstraAraclar1\\Program.cs",
+              "RelativeToolTip": "EkstraAraclar1\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:50:32.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chartOzellikleri.cs",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\EkstraAraclar1\\EkstraAraclar1\\chartOzellikleri.cs",
+              "RelativeDocumentMoniker": "EkstraAraclar1\\chartOzellikleri.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\EkstraAraclar1\\EkstraAraclar1\\chartOzellikleri.cs",
+              "RelativeToolTip": "EkstraAraclar1\\chartOzellikleri.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwBoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:49:26.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chartOzellikleri.cs [Design]",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\EkstraAraclar1\\EkstraAraclar1\\chartOzellikleri.cs",
+              "RelativeDocumentMoniker": "EkstraAraclar1\\chartOzellikleri.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\EkstraAraclar1\\EkstraAraclar1\\chartOzellikleri.cs [Design]",
+              "RelativeToolTip": "EkstraAraclar1\\chartOzellikleri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T22:49:43.223Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

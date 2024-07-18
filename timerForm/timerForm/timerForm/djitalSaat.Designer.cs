@@ -49,7 +49,7 @@
             // 
             this.Lbldk.AutoSize = true;
             this.Lbldk.Font = new System.Drawing.Font("Verdana", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbldk.Location = new System.Drawing.Point(65, 39);
+            this.Lbldk.Location = new System.Drawing.Point(73, 39);
             this.Lbldk.Name = "Lbldk";
             this.Lbldk.Size = new System.Drawing.Size(33, 35);
             this.Lbldk.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             this.Lblsaniye.AutoSize = true;
             this.Lblsaniye.Font = new System.Drawing.Font("Verdana", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lblsaniye.Location = new System.Drawing.Point(97, 39);
+            this.Lblsaniye.Location = new System.Drawing.Point(118, 39);
             this.Lblsaniye.Name = "Lblsaniye";
             this.Lblsaniye.Size = new System.Drawing.Size(33, 35);
             this.Lblsaniye.TabIndex = 2;

@@ -48,7 +48,7 @@
             this.chart1.Name = "chart1";
             series1.ChartArea = "ChartArea1";
             series1.Legend = "Legend1";
-            series1.Name = "Series1";
+            series1.Name = "Kitab";
             this.chart1.Series.Add(series1);
             this.chart1.Size = new System.Drawing.Size(706, 333);
             this.chart1.TabIndex = 0;

@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{37648276-2A10-4806-88CC-1A94A220B270}|timerForm\\timerForm.csproj|solutionrelative:timerform\\djitalsaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37648276-2A10-4806-88CC-1A94A220B270}|timerForm\\timerForm.csproj|c:\\c#_dosyalar\u0131m\\timerform\\timerform\\timerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37648276-2A10-4806-88CC-1A94A220B270}|timerForm\\timerForm.csproj|C:\\c#_dosyalar\u0131m\\timerForm\\timerForm\\timerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37648276-2A10-4806-88CC-1A94A220B270}|timerForm\\timerForm.csproj|solutionrelative:timerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37648276-2A10-4806-88CC-1A94A220B270}|timerForm\\timerForm.csproj|c:\\c#_dosyalar\u0131m\\timerform\\timerform\\timerform\\djitalsaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37648276-2A10-4806-88CC-1A94A220B270}|timerForm\\timerForm.csproj|C:\\c#_dosyalar\u0131m\\timerForm\\timerForm\\timerform\\djitalsaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37648276-2A10-4806-88CC-1A94A220B270}|timerForm\\timerForm.csproj|solutionrelative:timerform\\djitalsaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,8 +63,7 @@
               "RelativeToolTip": "timerForm\\Form1.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAWwEAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T16:03:18.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T16:03:18.602Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "ToolTip": "C:\\c#_dosyalar\u0131m\\timerForm\\timerForm\\timerForm\\Form1.cs [Design]",
               "RelativeToolTip": "timerForm\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T16:01:41.512Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-07-16T16:01:41.512Z"
             }
           ]
         }
