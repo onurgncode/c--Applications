@@ -8,3 +8,9 @@
 <img src="https://raw.githubusercontent.com/onurgncode/csharp-Applications/master/brojeler/listeVeriKullan%C4%B1m%C4%B1m.png" width="300">
 <img src="https://raw.githubusercontent.com/onurgncode/csharp-Applications/master/brojeler/notHesabla.png" width="300">
 <img src="https://raw.githubusercontent.com/onurgncode/csharp-Applications/master/brojeler/stribMenu.png" width="300">
+
+
+# En Katmanlı Mimari Kullanarak Crud
+### Personel Takip Uygulaması
+
+<center><img src="https://raw.githubusercontent.com/onurgncode/csharp-Applications/master/brojeler/nkatmanl%C4%B1mimari.gif" width="720"></center>
