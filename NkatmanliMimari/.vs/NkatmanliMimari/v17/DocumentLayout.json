@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4303195-2EC9-40DE-97E5-7A40603D04F0}|DataAccessLayer\\DataAccessLayer.csproj|c:\\c#_dosyalar\u0131m\\nkatmanlimimari\\dataaccesslayer\\dalpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4303195-2EC9-40DE-97E5-7A40603D04F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4303195-2EC9-40DE-97E5-7A40603D04F0}|DataAccessLayer\\DataAccessLayer.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4303195-2EC9-40DE-97E5-7A40603D04F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4303195-2EC9-40DE-97E5-7A40603D04F0}|DataAccessLayer\\DataAccessLayer.csproj|c:\\c#_dosyalar\u0131m\\nkatmanlimimari\\dataaccesslayer\\dalpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4303195-2EC9-40DE-97E5-7A40603D04F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DE35B92-96A1-4242-AF5F-FC9822240A6A}|LogicLayer\\LogicLayer.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\logiclayer\\logicpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE35B92-96A1-4242-AF5F-FC9822240A6A}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\logicpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4303195-2EC9-40DE-97E5-7A40603D04F0}|DataAccessLayer\\DataAccessLayer.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4303195-2EC9-40DE-97E5-7A40603D04F0}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\nkatmanlimimari\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\nkatmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57729715-83C4-4DCC-910F-11EA0F280BBA}|Entity_Layer\\EntityLayer.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\entity_layer\\entitydepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +35,8 @@
       "RelativeMoniker": "D:0:0:{57729715-83C4-4DCC-910F-11EA0F280BBA}|Entity_Layer\\EntityLayer.csproj|solutionrelative:entity_layer\\entitypersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\nkatmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA6E7377-08D4-4BB0-AD33-E3454998E896}|NkatmanliMimari\\NkatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,59 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Form1.cs",
               "RelativeDocumentMoniker": "NkatmanliMimari\\Form1.cs",
               "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Form1.cs",
               "RelativeToolTip": "NkatmanliMimari\\Form1.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAtwBcAAABNAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T17:12:27.697Z"
+              "WhenOpened": "2024-07-18T17:12:27.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Form1.cs",
-              "RelativeDocumentMoniker": "NkatmanliMimari\\Form1.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Form1.cs [Design]",
-              "RelativeToolTip": "NkatmanliMimari\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T17:07:00.24Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LogicPersonel.cs",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\LogicLayer\\LogicPersonel.cs",
-              "RelativeDocumentMoniker": "LogicLayer\\LogicPersonel.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\LogicLayer\\LogicPersonel.cs",
-              "RelativeToolTip": "LogicLayer\\LogicPersonel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T17:02:06.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DALPersonel.cs",
               "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\DataAccessLayer\\DALPersonel.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\DALPersonel.cs",
               "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\DataAccessLayer\\DALPersonel.cs",
               "RelativeToolTip": "DataAccessLayer\\DALPersonel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T16:45:40.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "EntityPersonel.cs",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\Entity_Layer\\EntityPersonel.cs",
+              "RelativeDocumentMoniker": "Entity_Layer\\EntityPersonel.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\Entity_Layer\\EntityPersonel.cs",
+              "RelativeToolTip": "Entity_Layer\\EntityPersonel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:27:53.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Baglanti.cs",
               "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\DataAccessLayer\\Baglanti.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Baglanti.cs",
@@ -110,27 +101,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "NkatmanliMimari\\Form1.Designer.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Form1.Designer.cs",
-              "RelativeToolTip": "NkatmanliMimari\\Form1.Designer.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAWwEoAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "LogicPersonel.cs",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\LogicLayer\\LogicPersonel.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\LogicPersonel.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\LogicLayer\\LogicPersonel.cs",
+              "RelativeToolTip": "LogicLayer\\LogicPersonel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T17:13:36.543Z"
+              "WhenOpened": "2024-07-18T17:02:06.204Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Program.cs",
-              "RelativeDocumentMoniker": "NkatmanliMimari\\Program.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Program.cs",
-              "RelativeToolTip": "NkatmanliMimari\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Form1.cs",
+              "RelativeDocumentMoniker": "NkatmanliMimari\\Form1.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Form1.cs [Design]",
+              "RelativeToolTip": "NkatmanliMimari\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T16:33:11.047Z"
+              "WhenOpened": "2024-07-18T17:07:00.24Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -146,15 +137,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EntityPersonel.cs",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\Entity_Layer\\EntityPersonel.cs",
-              "RelativeDocumentMoniker": "Entity_Layer\\EntityPersonel.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\Entity_Layer\\EntityPersonel.cs",
-              "RelativeToolTip": "Entity_Layer\\EntityPersonel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA/AAAA",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Program.cs",
+              "RelativeDocumentMoniker": "NkatmanliMimari\\Program.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Program.cs",
+              "RelativeToolTip": "NkatmanliMimari\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T16:27:53.714Z"
+              "WhenOpened": "2024-07-18T16:33:11.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "NkatmanliMimari\\Form1.Designer.cs",
+              "ToolTip": "C:\\c#_dosyalar\u0131m\\NkatmanliMimari\\NkatmanliMimari\\Form1.Designer.cs",
+              "RelativeToolTip": "NkatmanliMimari\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:13:36.543Z",
+              "EditorCaption": ""
             }
           ]
         }

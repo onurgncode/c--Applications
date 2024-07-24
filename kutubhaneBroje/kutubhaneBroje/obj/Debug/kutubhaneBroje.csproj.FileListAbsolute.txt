@@ -1,0 +1,15 @@
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\bin\Debug\kutubhaneBroje.exe.config
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\bin\Debug\kutubhaneBroje.exe
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\bin\Debug\kutubhaneBroje.pdb
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.csproj.AssemblyReference.cache
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.Form1.resources
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.Properties.Resources.resources
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.csproj.GenerateResource.cache
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.csproj.CoreCompileInputs.cache
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.exe
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.pdb
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.uyegiris.resources
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.uyeKayit.resources
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.kitapUyeKayit.resources
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.kütüphaneEkle.resources
+C:\c#_dosyalarım\kutubhaneBroje\kutubhaneBroje\obj\Debug\kutubhaneBroje.girisSayfasi.resources
