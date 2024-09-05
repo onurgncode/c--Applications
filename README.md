@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/onurgncode/csharp-Applications/master/brojeler/stribMenu.png" width="300">
 
 
-# En Katmanlı Mimari Kullanarak Crud
+# nKatmanlı Mimari Kullanarak Crud
 ### Personel Takip Uygulaması
 
 <center><img src="https://raw.githubusercontent.com/onurgncode/csharp-Applications/master/brojeler/nkatmanl%C4%B1mimari.gif" width="720"></center>
