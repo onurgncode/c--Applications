@@ -1,0 +1,7 @@
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\yapici_blok\bin\Debug\yapici_blok.exe.config
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\yapici_blok\bin\Debug\yapici_blok.exe
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\yapici_blok\bin\Debug\yapici_blok.pdb
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\yapici_blok\obj\Debug\yapici_blok.csproj.AssemblyReference.cache
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\yapici_blok\obj\Debug\yapici_blok.csproj.CoreCompileInputs.cache
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\yapici_blok\obj\Debug\yapici_blok.exe
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\yapici_blok\obj\Debug\yapici_blok.pdb

@@ -1,0 +1,7 @@
+D:\Yedeklenir\c#_dosyalarım\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.exe.config
+D:\Yedeklenir\c#_dosyalarım\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.exe
+D:\Yedeklenir\c#_dosyalarım\Abstract_Class\Abstract_Class\bin\Debug\Abstract_Class.pdb
+D:\Yedeklenir\c#_dosyalarım\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.csproj.AssemblyReference.cache
+D:\Yedeklenir\c#_dosyalarım\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.csproj.CoreCompileInputs.cache
+D:\Yedeklenir\c#_dosyalarım\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.exe
+D:\Yedeklenir\c#_dosyalarım\Abstract_Class\Abstract_Class\obj\Debug\Abstract_Class.pdb

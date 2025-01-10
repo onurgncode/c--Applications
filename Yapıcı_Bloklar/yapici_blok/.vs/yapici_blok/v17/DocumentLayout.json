@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|d:\\yedeklenir\\c#_dosyalar\u0131m\\yap\u0131c\u0131_bloklar\\yapici_blok\\ornek_nesne_programi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|solutionrelative:ornek_nesne_programi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|d:\\yedeklenir\\c#_dosyalar\u0131m\\yap\u0131c\u0131_bloklar\\yapici_blok\\ornek_nesne_programi\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|solutionrelative:ornek_nesne_programi\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|d:\\yedeklenir\\c#_dosyalar\u0131m\\yap\u0131c\u0131_bloklar\\yapici_blok\\ornek_nesne_programi\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|solutionrelative:ornek_nesne_programi\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|d:\\yedeklenir\\c#_dosyalar\u0131m\\yap\u0131c\u0131_bloklar\\yapici_blok\\ornek_nesne_programi\\filelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|solutionrelative:ornek_nesne_programi\\filelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|d:\\yedeklenir\\c#_dosyalar\u0131m\\yap\u0131c\u0131_bloklar\\yapici_blok\\ornek_nesne_programi\\databaselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|solutionrelative:ornek_nesne_programi\\databaselog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC514D9-E6DB-4B81-8BEC-A295420F00EB}|yapici_blok\\yapici_blok.csproj|d:\\yedeklenir\\c#_dosyalar\u0131m\\yap\u0131c\u0131_bloklar\\yapici_blok\\yapici_blok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC514D9-E6DB-4B81-8BEC-A295420F00EB}|yapici_blok\\yapici_blok.csproj|solutionrelative:yapici_blok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|d:\\yedeklenir\\c#_dosyalar\u0131m\\yap\u0131c\u0131_bloklar\\yapici_blok\\ornek_nesne_programi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|solutionrelative:ornek_nesne_programi\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|d:\\yedeklenir\\c#_dosyalar\u0131m\\yap\u0131c\u0131_bloklar\\yapici_blok\\ornek_nesne_programi\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E91C16-03B4-4FB7-8C28-8873A25431C7}|Ornek_Nesne_Programi\\Ornek_Nesne_Programi.csproj|solutionrelative:ornek_nesne_programi\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileLog.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\FileLog.cs",
+              "RelativeDocumentMoniker": "Ornek_Nesne_Programi\\FileLog.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\FileLog.cs",
+              "RelativeToolTip": "Ornek_Nesne_Programi\\FileLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:27:36.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseLog.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\DatabaseLog.cs",
+              "RelativeDocumentMoniker": "Ornek_Nesne_Programi\\DatabaseLog.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\DatabaseLog.cs",
+              "RelativeToolTip": "Ornek_Nesne_Programi\\DatabaseLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:21:48.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILOGGER.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\ILOGGER.cs",
+              "RelativeDocumentMoniker": "Ornek_Nesne_Programi\\ILOGGER.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\ILOGGER.cs",
+              "RelativeToolTip": "Ornek_Nesne_Programi\\ILOGGER.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:18:52.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\Database.cs",
+              "RelativeDocumentMoniker": "Ornek_Nesne_Programi\\Database.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\Database.cs",
+              "RelativeToolTip": "Ornek_Nesne_Programi\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:10:25.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\Program.cs",
+              "RelativeDocumentMoniker": "Ornek_Nesne_Programi\\Program.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\Program.cs",
+              "RelativeToolTip": "Ornek_Nesne_Programi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:01:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "customer.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\customer.cs",
+              "RelativeDocumentMoniker": "Ornek_Nesne_Programi\\customer.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\customer.cs",
+              "RelativeToolTip": "Ornek_Nesne_Programi\\customer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwCkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:52:15.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\Person.cs",
+              "RelativeDocumentMoniker": "Ornek_Nesne_Programi\\Person.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\Ornek_Nesne_Programi\\Person.cs",
+              "RelativeToolTip": "Ornek_Nesne_Programi\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T20:51:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\yapici_blok\\Program.cs",
+              "RelativeDocumentMoniker": "yapici_blok\\Program.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\Yap\u0131c\u0131_Bloklar\\yapici_blok\\yapici_blok\\Program.cs",
+              "RelativeToolTip": "yapici_blok\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwBkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:50:57.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

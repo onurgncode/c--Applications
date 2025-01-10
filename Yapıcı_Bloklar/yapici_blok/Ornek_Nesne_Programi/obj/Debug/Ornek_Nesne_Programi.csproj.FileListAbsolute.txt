@@ -1,0 +1,7 @@
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\Ornek_Nesne_Programi\bin\Debug\Ornek_Nesne_Programi.exe.config
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\Ornek_Nesne_Programi\bin\Debug\Ornek_Nesne_Programi.exe
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\Ornek_Nesne_Programi\bin\Debug\Ornek_Nesne_Programi.pdb
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\Ornek_Nesne_Programi\obj\Debug\Ornek_Nesne_Programi.csproj.AssemblyReference.cache
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\Ornek_Nesne_Programi\obj\Debug\Ornek_Nesne_Programi.csproj.CoreCompileInputs.cache
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\Ornek_Nesne_Programi\obj\Debug\Ornek_Nesne_Programi.exe
+D:\Yedeklenir\c#_dosyalarım\Yapıcı_Bloklar\yapici_blok\Ornek_Nesne_Programi\obj\Debug\Ornek_Nesne_Programi.pdb

@@ -1,33 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\",
+  "WorkspaceRootPath": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|c:\\c#_dosyalar\u0131m\\kutubhanebroje\\kutubhanebroje\\kitapuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\kitapuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|c:\\c#_dosyalar\u0131m\\kutubhanebroje\\kutubhanebroje\\uyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\uyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhanebroje\\kitapkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\kitapkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|c:\\c#_dosyalar\u0131m\\kutubhanebroje\\kutubhanebroje\\kitapkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhanebroje\\kitapkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\kitapkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|c:\\c#_dosyalar\u0131m\\kutubhanebroje\\kutubhanebroje\\k\u00FCt\u00FCphaneekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\k\u00FCt\u00FCphaneekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhanebroje\\kitapkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\kitapkayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|c:\\c#_dosyalar\u0131m\\kutubhanebroje\\kutubhanebroje\\kitapuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhanebroje\\kitapuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\kitapuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|c:\\c#_dosyalar\u0131m\\kutubhanebroje\\kutubhanebroje\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhanebroje\\kitapuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\kitapuyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|d:\\yedeklenir\\c#_dosyalar\u0131m\\kutubhanebroje\\kutubhanebroje\\uyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\uyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|d:\\yedeklenir\\c#_dosyalar\u0131m\\kutubhanebroje\\kutubhanebroje\\uyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\uyekayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhanebroje\\uyegiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\uyegiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhanebroje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhanebroje\\k\u00FCt\u00FCphaneekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\k\u00FCt\u00FCphaneekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhanebroje\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80B59EFB-A98C-42F1-9B32-395CC94D050C}|kutubhaneBroje\\kutubhaneBroje.csproj|solutionrelative:kutubhanebroje\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,52 +50,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "uyeKayit.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\uyeKayit.cs",
+              "RelativeDocumentMoniker": "kutubhaneBroje\\uyeKayit.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\uyeKayit.cs*",
+              "RelativeToolTip": "kutubhaneBroje\\uyeKayit.cs*",
+              "ViewState": "AQIAAKEAAAAAAAAAAAASwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:27:41.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\Program.cs",
+              "RelativeDocumentMoniker": "kutubhaneBroje\\Program.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\Program.cs",
+              "RelativeToolTip": "kutubhaneBroje\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:37:04.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "uyegiris.cs [Design]",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\uyegiris.cs",
+              "RelativeDocumentMoniker": "kutubhaneBroje\\uyegiris.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\uyegiris.cs [Design]",
+              "RelativeToolTip": "kutubhaneBroje\\uyegiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:30:56.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "kitapUyeKayit.cs [Design]",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\kitapUyeKayit.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\kitapUyeKayit.cs",
               "RelativeDocumentMoniker": "kutubhaneBroje\\kitapUyeKayit.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\kitapUyeKayit.cs [Design]",
-              "RelativeToolTip": "kutubhaneBroje\\kitapUyeKayit.cs [Design]",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\kitapUyeKayit.cs [Design]*",
+              "RelativeToolTip": "kutubhaneBroje\\kitapUyeKayit.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T16:17:56.094Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "uyeKayit.cs [Design]",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\uyeKayit.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\uyeKayit.cs",
               "RelativeDocumentMoniker": "kutubhaneBroje\\uyeKayit.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\uyeKayit.cs [Design]",
-              "RelativeToolTip": "kutubhaneBroje\\uyeKayit.cs [Design]",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\uyeKayit.cs [Design]*",
+              "RelativeToolTip": "kutubhaneBroje\\uyeKayit.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T16:17:41.335Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Kitapkayit.cs",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\Kitapkayit.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\Kitapkayit.cs",
               "RelativeDocumentMoniker": "kutubhaneBroje\\Kitapkayit.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\Kitapkayit.cs",
-              "RelativeToolTip": "kutubhaneBroje\\Kitapkayit.cs",
-              "ViewState": "AQIAANIAAAAAAAAAAAAuwOwAAABSAAAA",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\Kitapkayit.cs*",
+              "RelativeToolTip": "kutubhaneBroje\\Kitapkayit.cs*",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAhwJ4AAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T13:53:43.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "baglanti.cs",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\baglanti.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\baglanti.cs",
               "RelativeDocumentMoniker": "kutubhaneBroje\\baglanti.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\baglanti.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\baglanti.cs",
               "RelativeToolTip": "kutubhaneBroje\\baglanti.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,24 +150,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "kitapUyeKayit.cs",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\kitapUyeKayit.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\kitapUyeKayit.cs",
               "RelativeDocumentMoniker": "kutubhaneBroje\\kitapUyeKayit.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\kitapUyeKayit.cs",
-              "RelativeToolTip": "kutubhaneBroje\\kitapUyeKayit.cs",
-              "ViewState": "AQIAAIgAAAAAAAAAAAAtwIIAAAAMAAAA",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\kitapUyeKayit.cs*",
+              "RelativeToolTip": "kutubhaneBroje\\kitapUyeKayit.cs*",
+              "ViewState": "AQIAAJIAAAAAAAAAAAApwKAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T15:15:36.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "k\u00FCt\u00FCphaneEkle.cs",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\k\u00FCt\u00FCphaneEkle.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\k\u00FCt\u00FCphaneEkle.cs",
               "RelativeDocumentMoniker": "kutubhaneBroje\\k\u00FCt\u00FCphaneEkle.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\k\u00FCt\u00FCphaneEkle.cs",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\k\u00FCt\u00FCphaneEkle.cs",
               "RelativeToolTip": "kutubhaneBroje\\k\u00FCt\u00FCphaneEkle.cs",
               "ViewState": "AQIAALwAAAAAAAAAAAAswNQAAAB0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,12 +176,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Kitapkayit.cs [Design]",
-              "DocumentMoniker": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\Kitapkayit.cs",
+              "DocumentMoniker": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\Kitapkayit.cs",
               "RelativeDocumentMoniker": "kutubhaneBroje\\Kitapkayit.cs",
-              "ToolTip": "C:\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\Kitapkayit.cs [Design]",
-              "RelativeToolTip": "kutubhaneBroje\\Kitapkayit.cs [Design]",
+              "ToolTip": "D:\\Yedeklenir\\c#_dosyalar\u0131m\\kutubhaneBroje\\kutubhaneBroje\\Kitapkayit.cs [Design]*",
+              "RelativeToolTip": "kutubhaneBroje\\Kitapkayit.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T13:52:53.34Z",
               "EditorCaption": " [Design]"
